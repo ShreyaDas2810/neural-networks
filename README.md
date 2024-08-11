@@ -5,13 +5,7 @@ This repository contains a simple neural network framework implemented from scra
 ## Table of Contents
 - [Objective](#objective)
 - [Framework Components](#framework-components)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Using the Framework in Kaggle](#using-the-framework-in-kaggle)
-- [Evaluation](#evaluation)
-- [Kaggle Notebook](#kaggle-notebook)
-- [Contributing](#contributing)
-- [License](#license)
+- [Kaggle Notebook](#link-to-kaggle-notebook)
 
 ## Objective
 
@@ -42,5 +36,5 @@ The goal of this project is to create a neural network framework from scratch an
 ### Optimizer
 - **SGD**: Implements the Stochastic Gradient Descent (SGD) optimizer.
   - Methods: `step`
-### Link to kaggle notebook
+## Link to Kaggle Notebook
 - https://www.kaggle.com/code/dasshr/neural-network/edit
